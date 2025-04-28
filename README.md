@@ -41,7 +41,7 @@ relation_graph/
 
 
 ## 🖥️ Inference  
-1. Retrieve related modifiers from relation graph.
+1. Retrieve related modifiers from relation graph. You can adjust the hyperparameters in `retrieve_modifiers.py` to modify the number of retrieval modifiers.
 ```
 sh retrieve_modifiers.sh
 ```
