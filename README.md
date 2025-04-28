@@ -47,7 +47,8 @@ sh retrieve_modifiers.sh
 ```
 2. Word augmentation and sentence refactoring.
 ```
-sh augment_and_refactor.sh
+sh word_augment.sh
+sh refactoring.sh
 ```
 3. Rewrite via instruction.
 ```
