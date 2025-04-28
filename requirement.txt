@@ -1,0 +1,7 @@
+networkx==3.4.2
+sentence-transformers==4.1.0
+tqdm==4.64.0
+transformers==4.51.3
+pandas==2.2.3
+protobuf==6.30.2
+accelerate==1.6.0
