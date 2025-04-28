@@ -59,7 +59,8 @@ sh rewrite_via_instruction.sh
 
 
 
-## 📍 Citation 
+## ✒️ Citation
+If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```
 @article{gao2025devil,
