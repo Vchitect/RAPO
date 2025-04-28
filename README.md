@@ -33,7 +33,6 @@ Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v
 ```
 ckpt/
 │── all-MiniLM-L6-v2/
-│── llama3_1_instruct_lora_finetune/
 │── Mistral-7B-Instruct-v0.3/
 relation_graph/
 │── graph_data/
