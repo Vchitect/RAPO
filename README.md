@@ -41,6 +41,14 @@ relation_graph/
 
 
 ## 🖥️ Inference  
+0. We provide the codes to compose the graph data. We provide two examples of inputs to compose the graph data (`./data/graph_test1.csv` and `./data/graph_test2.csv`). You can build a relation graph from scratch based on the constructed data:
+```
+python construct_graph.py
+```
+or you can add data based on the already constructed relation graph:
+```
+python add_to_graph.py
+```
 1. Retrieve related modifiers from relation graph. You can adjust the hyperparameters in `retrieve_modifiers.py` to modify the number of retrieval modifiers.
 ```
 sh retrieve_modifiers.sh
@@ -54,9 +62,6 @@ sh refactoring.sh
 ```
 sh rewrite_via_instruction.sh
 ```
-
-
-
 
 
 ## ✒️ Citation
