@@ -6,14 +6,16 @@
   <a href='https://whynothaha.github.io/RAPO_plus_github/' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO++-blue'></a>
 </p >
 
-## 🔥 News
-- [2025.10.26] We plan to release RAPO++ in a few days. Please stay tuned!
-
-
 <p align="center">
 <strong><big>
 If you find our work useful, please consider giving us a star🌟</big></strong>
 </p>
+
+## 🔥 News
+- [2025.10.26] We plan to release RAPO++ in a few days. Please stay tuned!
+
+
+
 
 
 ## 📚 AutoPage
