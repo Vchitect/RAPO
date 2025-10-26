@@ -2,6 +2,11 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2504.11739) [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)
 
+
+## 🔥 News
+- [2025.10.26] We plan to release RAPO++ in a few days. 
+
+
 ##  Abstract
 
 <details><summary>CLICK for the full abstract</summary>
