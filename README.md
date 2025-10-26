@@ -1,8 +1,10 @@
-### The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation (CVPR25)
-
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2504.11739) 
-[![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)
-
+# RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling
+<p align="center">
+  <a href="https://arxiv.org/pdf/2504.11739" target="_blank"><img src="https://img.shields.io/badge/Paper-RAPO-red"></a>
+  <a href='https://whynothaha.github.io/Prompt_optimizer/RAPO.html' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO-blue'></a>
+  <a href="https://arxiv.org/abs/2510.20206" target="_blank"><img src="https://img.shields.io/badge/Paper-RAPO++-red"></a>
+  <a href='https://whynothaha.github.io/RAPO_plus_github/' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO++-blue'></a>
+</p >
 
 ## 🔥 News
 - [2025.10.26] We plan to release RAPO++ in a few days. Please stay tuned!
