@@ -73,10 +73,20 @@ sh rewrite_via_instruction.sh
 If you find our work helpful for your research, please consider giving a star ⭐ and citation 📝
 
 ```
-@article{gao2025devil,
-  title={The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation},
-  author={Gao, Bingjie and Gao, Xinyu and Wu, Xiaoxue and Zhou, Yujie and Qiao, Yu and Niu, Li and Chen, Xinyuan and Wang, Yaohui},
-  journal={arXiv preprint arXiv:2504.11739},
-  year={2025}
+@article{gao2025rapopp,
+  title   = {RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling},
+  author  = {Gao, Bingjie and Ma, Qianli and Wu, Xiaoxue and Yang, Shuai and Lan, Guanzhou and Zhao, Haonan and Chen, Jiaxuan and Liu, Qingyang and Qiao, Yu and Chen, Xinyuan and Wang, Yaohui and Niu, Li},
+  journal = {arXiv preprint arXiv:2510.20206},
+  year    = {2025}
 }
-``` 
+```
+```
+@InProceedings{Gao_2025_CVPR,
+    author    = {Gao, Bingjie and Gao, Xinyu and Wu, Xiaoxue and Zhou, Yujie and Qiao, Yu and Niu, Li and Chen, Xinyuan and Wang, Yaohui},
+    title     = {The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2025},
+    pages     = {3173-3183}
+}
+```
