@@ -4,7 +4,7 @@
 
 
 ## 🔥 News
-- [2025.10.26] We plan to release RAPO++ in a few days. 
+- [2025.10.26] We plan to release RAPO++ in a few days. Please stay tuned!
 
 
 ##  Abstract
