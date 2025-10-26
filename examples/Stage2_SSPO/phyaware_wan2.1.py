@@ -246,14 +246,14 @@ def evaluate_physical_consistency(
 # ---------------------------
 if __name__ == "__main__":
     # ==== Centralized checkpoint and path configuration ====
-    WAN_MODEL_ID = "/mnt/petrelfs/gaobingjie/pretrained/Wan2.1-T2V-1.3B-Diffusers"  # Wan T2V checkpoint
-    INSTRUCT_LLM_PATH = "/mnt/petrelfs/gaobingjie/pretrained/Qwen2.5-7B-Instruct"    # Instruction-tuned LLM for physics/rewrite
-    QWEN_VL_PATH = "/mnt/petrelfs/gaobingjie/pretrained/qwen2.5-vl-7B-instruct"      # VLM for alignment assessment
+    WAN_MODEL_ID = "../../ckpt/Wan2.1-T2V-1.3B-Diffusers"  # Wan T2V checkpoint
+    INSTRUCT_LLM_PATH = "../../ckpt//Qwen2.5-7B-Instruct"    # Instruction-tuned LLM for physics/rewrite
+    QWEN_VL_PATH = ../../ckpt//qwen2.5-vl-7B-instruct"      # VLM for alignment assessment
 
     # Output and data
-    OUTPUT_DIR = Path("/mnt/petrelfs/gaobingjie/rapo_plus/dataset/chosen_cases/examples_refined/")
-    OUTPUT_LOG = Path("/mnt/petrelfs/gaobingjie/rapo_plus/dataset/chosen_cases/examples_refined/refined_prompts.csv")
-    CSV_PATH = Path("/mnt/petrelfs/gaobingjie/rapo_plus/dataset/chosen_cases/examples.csv")
+    OUTPUT_DIR = Path("./results/examples_refined/")
+    OUTPUT_LOG = Path("./results/examples_refined/refined_prompts.csv")
+    CSV_PATH = Path("examples.csv")
 
     # Negative prompt (not a checkpoint path)
     NEGATIVE_PROMPT = (
