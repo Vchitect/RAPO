@@ -10,6 +10,15 @@
 - [2025.10.26] We plan to release RAPO++ in a few days. Please stay tuned!
 
 
+<p align="center">
+<strong><big>
+If you find our work useful, please consider giving us a star🌟</big></strong>
+</p>
+
+
+## 📚 AutoPage
+Our website is automatically generated using our [**AutoPage**](https://mqleet.github.io/AutoPage_ProjectPage/), a multi-agent system we highly recommend for effortless academic page creation.
+
 ##  Abstract
 
 <details><summary>CLICK for the full abstract</summary>
