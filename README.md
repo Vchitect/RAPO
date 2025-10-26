@@ -1,6 +1,7 @@
 ### The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation (CVPR25)
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2504.11739) [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2504.11739) 
+[![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://whynothaha.github.io/Prompt_optimizer/RAPO.html)
 
 
 ## 🔥 News
