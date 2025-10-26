@@ -106,9 +106,8 @@ sh rewrite_via_instruction.sh
 ```
 cd ./examples/Stage2_SSPO/
 ```
-We take **physical-aware video generation** as an example.  
-The script generates and refines videos iteratively by combining Wan 2.1 T2V generation, Qwen2.5-VL alignment scoring, and physics-based prompt rewriting to enhance realism and consistency.  
-You can modify the script to include custom reward functions or historical-prompt backtracking for task-specific adaptation.
+We take **physical-aware video generation** as an example. We provide an examples.csv file in this directory, which contains some test prompts and the physical rules that T2V generation needs to comply with.
+The script generates and refines videos iteratively by combining Wan 2.1 T2V generation, Qwen2.5-VL alignment scoring, and physics-based prompt rewriting to enhance realism and consistency. You can modify the script to change the base model, include custom reward functions and historical-prompt backtracking for task-specific adaptation.
 ```
 python phyaware_wan2.1.py
 ```
