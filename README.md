@@ -1,4 +1,4 @@
-# RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling
+# RAPO++: Prompting Test-Time Scaling for Text-to-Video Generation
 <p align="center">
   <a href="https://arxiv.org/pdf/2504.11739" target="_blank"><img src="https://img.shields.io/badge/Paper-RAPO-red"></a>
   <a href='https://whynothaha.github.io/Prompt_optimizer/RAPO.html' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO-blue'></a>
