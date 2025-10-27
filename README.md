@@ -18,7 +18,9 @@ Our website is automatically generated using our [**AutoPage**](https://mqleet.g
 
 ## 📋 Table of Contents
 
-- RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling
+This is the official implementation for
+- [RAPO] [The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation, **CVPR 2025**](https://arxiv.org/abs/2502.07516)
+- [RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via Data Alignment and Test-Time Scaling, arXiv:2510.20206](https://arxiv.org/abs/2510.20206)
   - [🔎 Overview](#-overview)
   - [🤗 Checkpoint](#-checkpoint) 
   - [🛠️ Installation](#-installation)
