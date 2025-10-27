@@ -4,6 +4,7 @@
   <a href='https://whynothaha.github.io/Prompt_optimizer/RAPO.html' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO-blue'></a>
   <a href="https://arxiv.org/abs/2510.20206" target="_blank"><img src="https://img.shields.io/badge/Paper-RAPO++-red"></a>
   <a href='https://whynothaha.github.io/RAPO_plus_github/' target="_blank"><img src='https://img.shields.io/badge/ProjectPage-RAPO++-blue'></a>
+  <a href="https://huggingface.co/papers/2510.20206" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Daily Papers-red"></a>
 </p >
 
 <p align="center">
